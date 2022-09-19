@@ -4,7 +4,7 @@
 body{
     margin: 0;
     font-family: "Poppins",sans-serif;
-    background-color: rebeccapurple;
+    background-color:white;
     color: #eee;
     display: flex;
     align-items: center;
@@ -67,4 +67,8 @@ body{
     border: none;
     width: 100%;
     cursor: pointer;
+}
+.generate:hover{
+    background-color: #eee;
+    color: rebeccapurple;
 }
